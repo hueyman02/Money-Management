@@ -1,2 +1,2 @@
 # Money-Management
-View the second branches tqq
+Can view through the second branches - moneyManagement
