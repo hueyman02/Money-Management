@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="@string/Home"
+        android:icon="@drawable/home"></item>
+
+    <item android:id="@+id/transaction"
+        android:title="@string/Transaction"
+        android:icon="@drawable/transaction"></item>
+
+    <item android:id="@+id/summary"
+        android:title="@string/Summary"
+        android:icon="@drawable/summary"></item>
+
+    <item android:id="@+id/budget"
+        android:title="@string/Budget"
+        android:icon="@drawable/budget"></item>
+
+    <item android:id="@+id/setting"
+        android:title="@string/Setting"
+        android:icon="@drawable/setting"></item>
+
+
+
+</menu>

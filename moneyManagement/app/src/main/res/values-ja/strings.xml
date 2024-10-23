@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">資金管理</string>
+
+    <string name="navigation_drawer_open">ナビゲーションドロワーを開く</string>
+    <string name="navigation_drawer_close">ナビゲーションドロワーを閉じる</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">こんにちは、空白のフラグメント</string>
+
+    <string name="Setting">設定</string>
+    <string name="Reminder">リマインダー</string>
+    <string name="Search">検索</string>
+    <string name="Reward">褒美</string>
+    <string name="Language">言語</string>
+    <string name="Calculator">電卓</string>
+    <string name="LogOut">ログアウト</string>
+
+    <string name="English">日本語</string>
+
+
+    <string name="Balance">バランス</string>
+    <string name="Income">所得</string>
+    <string name="Expense">費用</string>
+    <string name="IncomeHistory">収入履歴</string>
+    <string name="ExpenseHistory">経費履歴</string>
+    <string name="ExpenseStatistics">経費統計</string>
+
+    <string name="Type">タイプ</string>
+    <string name="Note">注記</string>
+    <string name="Amount">額</string>
+
+    <string name="Save">保存</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="IncomeReport">収入報告書</string>
+    <string name="ExpenseReport">経費報告書</string>
+    <string name="LogIn">ログイン</string>
+    <string name="Email">Eメール</string>
+    <string name="Password">パスワード</string>
+    <string name="NotyetregisterSignUp">まだ登録していませんか?サインアップ</string>
+    <string name="PersonalMoneyManagementSystem">個人資金管理システム</string>
+    <string name="AddReminderHere">ここにリマインダーを追加..</string>
+
+    <string name="Enterthetask">タスクを入力してください</string>
+    <string name="Date">日付</string>
+    <string name="Time">時間</string>
+    <string name="Submit">提出する</string>
+    <string name="OrangeJuice">オレンジジュース</string>
+    <string name="OrangePoints">300 ポイント</string>
+    <string name="Burger">バーガー</string>
+    <string name="BurgerPoints">400 ポイント</string>
+    <string name="EWallet">RM10 Eウォレット</string>
+    <string name="EWalletPoints">1800 ポイント</string>
+
+    <string name="Voucher">10% クーポン</string>
+    <string name="VoucherPoints">3000 ポイント</string>
+    <string name="SignUp">サインアップ</string>
+    <string name="Fill">あなたの情報を入力してください</string>
+    <string name="AlreadyLogin">すでにユーザーですか?ログイン</string>
+    <string name="Register">登録する</string>
+    <string name="SearchDate">検索日</string>
+    <string name="FinanceManager">財務マネージャー</string>
+    <string name="Title">タイトル</string>
+
+    <string name="Delete">消去</string>
+    <string name="Update">アップデート</string>
+
+    <string name="Home">家</string>
+    <string name="Transaction">取引</string>
+    <string name="Summary">まとめ</string>
+    <string name="Budget">予算</string>
+    <string name="Redeem">償還</string>
+    <string name="LoginusingFingerPrint">指紋認証を使用してログインする</string>
+</resources>

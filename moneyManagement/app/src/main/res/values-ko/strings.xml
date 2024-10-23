@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">자금 관리</string>
+
+    <string name="navigation_drawer_open">탐색 창 열기</string>
+    <string name="navigation_drawer_close">탐색 창 닫기</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">안녕하세요 빈 조각</string>
+
+    <string name="Setting">환경</string>
+    <string name="Reminder">알림</string>
+    <string name="Search">찾다</string>
+    <string name="Reward">보상</string>
+    <string name="Language">언어</string>
+    <string name="Calculator">계산자</string>
+    <string name="LogOut">로그 아웃</string>
+
+    <string name="English">한국인</string>
+
+
+    <string name="Balance">균형</string>
+    <string name="Income">소득</string>
+    <string name="Expense">비용</string>
+    <string name="IncomeHistory">소득 내역</string>
+    <string name="ExpenseHistory">지출 내역</string>
+    <string name="ExpenseStatistics">비용 통계</string>
+
+    <string name="Type">유형</string>
+    <string name="Note">메모</string>
+    <string name="Amount">양</string>
+
+    <string name="Save">구하다</string>
+    <string name="Cancel">취소</string>
+    <string name="IncomeReport">소득 보고서</string>
+    <string name="ExpenseReport">비용 보고서</string>
+    <string name="LogIn">로그인</string>
+    <string name="Email">이메일</string>
+    <string name="Password">비밀번호</string>
+    <string name="NotyetregisterSignUp">아직 등록하지 않으셨나요? 가입하기</string>
+    <string name="PersonalMoneyManagementSystem">개인 자금 관리 시스템</string>
+    <string name="AddReminderHere">여기에 알림을 추가하세요..</string>
+
+    <string name="Enterthetask">작업을 입력하세요</string>
+    <string name="Date">날짜</string>
+    <string name="Time">시간</string>
+    <string name="Submit">제출하다</string>
+    <string name="OrangeJuice">오렌지 주스</string>
+    <string name="OrangePoints">300 포인트</string>
+    <string name="Burger">버거</string>
+    <string name="BurgerPoints">400 포인트</string>
+    <string name="EWallet">RM10 E월렛</string>
+    <string name="EWalletPoints">1800 포인트</string>
+
+    <string name="Voucher">10% 바우처</string>
+    <string name="VoucherPoints">3000 포인트</string>
+    <string name="SignUp">가입하기</string>
+    <string name="Fill">정보를 입력하세요</string>
+    <string name="AlreadyLogin">이미 사용자이신가요? 로그인</string>
+    <string name="Register">등록하다</string>
+    <string name="SearchDate">검색 날짜</string>
+    <string name="FinanceManager">재무 관리자</string>
+    <string name="Title">제목</string>
+
+    <string name="Delete">삭제</string>
+    <string name="Update">업데이트</string>
+
+    <string name="Home">집</string>
+    <string name="Transaction">거래</string>
+    <string name="Summary">요약</string>
+    <string name="Budget">예산</string>
+    <string name="Redeem">상환하다</string>
+    <string name="LoginusingFingerPrint">지문을 사용하여 로그인</string>
+
+
+</resources>

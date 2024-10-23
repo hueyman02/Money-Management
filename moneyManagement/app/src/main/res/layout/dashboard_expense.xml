@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    android:elevation="5dp"
+    app:cardCornerRadius="10dp"
+    android:layout_margin="10dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="#F8EEC3"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Type"
+            android:textColor="@color/black"
+            android:textStyle="bold|italic"
+            android:gravity="center"
+            android:id="@+id/type_expense_ds"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textColor="@color/expense_color"
+            android:textStyle="bold|italic"
+            android:text="@string/Amount"
+            android:layout_marginTop="10dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:id="@+id/amount_expense_ds"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:textStyle="italic|bold"
+            android:text="10 Oct 2023"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:gravity="center"
+            android:id="@+id/date_expense"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"></TextView>
+
+    </LinearLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>

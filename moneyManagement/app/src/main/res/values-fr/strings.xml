@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestion De Largent</string>
+
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+
+    <string name="Setting">Paramètre</string>
+    <string name="Reminder">Rappel</string>
+    <string name="Search">Recherche</string>
+    <string name="Reward">Récompense</string>
+    <string name="Language">Langue</string>
+    <string name="Calculator">Calculatrice</string>
+    <string name="LogOut">Se déconnecter</string>
+
+    <string name="English">française</string>
+
+
+    <string name="Balance">Équilibre</string>
+    <string name="Income">Revenu</string>
+    <string name="Expense">Frais</string>
+    <string name="IncomeHistory">Historique des revenus</string>
+    <string name="ExpenseHistory">Historique des dépenses</string>
+    <string name="ExpenseStatistics">Statistiques des dépenses</string>
+
+    <string name="Type">Taper</string>
+    <string name="Note">Note</string>
+    <string name="Amount">Montant</string>
+
+    <string name="Save">Sauvegarder</string>
+    <string name="Cancel">Annuler</string>
+    <string name="IncomeReport">Rapport sur les revenus</string>
+    <string name="ExpenseReport">Rapport de dépenses</string>
+    <string name="LogIn">Se connecter</string>
+    <string name="Email">E-mail</string>
+    <string name="Password">Mot de passe</string>
+    <string name="NotyetregisterSignUp">Pas encore inscrit ? Sinscrire</string>
+    <string name="PersonalMoneyManagementSystem">Système de gestion de largent personnel</string>
+    <string name="AddReminderHere">Ajouter un rappel ici..</string>
+
+    <string name="Enterthetask">Entrez la tâche</string>
+    <string name="Date">Date</string>
+    <string name="Time">Temps</string>
+    <string name="Submit">Soumettre</string>
+    <string name="OrangeJuice">Du jus d orange</string>
+    <string name="OrangePoints">300 Points</string>
+    <string name="Burger">Burger</string>
+    <string name="BurgerPoints">400 points</string>
+    <string name="EWallet">Portefeuille électronique RM10</string>
+    <string name="EWalletPoints">1800 points</string>
+
+    <string name="Voucher">Bon de 10%</string>
+    <string name="VoucherPoints">3000 points</string>
+    <string name="SignUp">S inscrire</string>
+    <string name="Fill">Remplissez vos informations</string>
+    <string name="AlreadyLogin">Déjà utilisateur ? Se connecter</string>
+    <string name="Register">Registre</string>
+    <string name="SearchDate">Date de recherche</string>
+    <string name="FinanceManager">Responsable des finances</string>
+    <string name="Title">Titre</string>
+
+    <string name="Delete">Supprimer</string>
+    <string name="Update">Mise à jour</string>
+
+    <string name="Home">Home</string>
+    <string name="Transaction">Transaction</string>
+    <string name="Summary">Summary</string>
+    <string name="Budget">Budget</string>
+    <string name="Redeem">Redeem</string>
+    <string name="LoginusingFingerPrint">Login using FingerPrint</string>
+</resources>

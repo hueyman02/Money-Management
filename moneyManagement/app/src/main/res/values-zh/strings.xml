@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">金钱管理</string>
+
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好空白片段</string>
+
+    <string name="Setting">设置</string>
+    <string name="Reminder">提醒</string>
+    <string name="Search">搜索</string>
+    <string name="Reward">报酬</string>
+    <string name="Language">语言</string>
+    <string name="Calculator">计算器</string>
+    <string name="LogOut">登出</string>
+
+    <string name="English">中文</string>
+
+
+    <string name="Balance">平衡</string>
+    <string name="Income">收入</string>
+    <string name="Expense">费用</string>
+    <string name="IncomeHistory">收入记录</string>
+    <string name="ExpenseHistory">支出记录</string>
+    <string name="ExpenseStatistics">费用统计</string>
+
+    <string name="Type">类型</string>
+    <string name="Note">笔记</string>
+    <string name="Amount">数量</string>
+
+    <string name="Save">保存</string>
+    <string name="Cancel">取消</string>
+    <string name="IncomeReport">收入报告</string>
+    <string name="ExpenseReport">开支报告</string>
+    <string name="LogIn">登录</string>
+    <string name="Email">电子邮件</string>
+    <string name="Password">密码</string>
+    <string name="NotyetregisterSignUp">还没有注册？报名</string>
+    <string name="PersonalMoneyManagementSystem">个人资金管理系统</string>
+    <string name="AddReminderHere">在此添加提醒..</string>
+
+    <string name="Enterthetask">输入任务</string>
+    <string name="Date">日期</string>
+    <string name="Time">时间</string>
+    <string name="Submit">提交</string>
+    <string name="OrangeJuice">橙汁</string>
+    <string name="OrangePoints">300 积分</string>
+    <string name="Burger">汉堡包</string>
+    <string name="BurgerPoints">400 积分</string>
+    <string name="EWallet">RM10 电子钱包</string>
+    <string name="EWalletPoints">1800 积分</string>
+
+    <string name="Voucher">10% 优惠券</string>
+    <string name="VoucherPoints">3000 积分</string>
+    <string name="SignUp">注册</string>
+    <string name="Fill">填写您的信息</string>
+    <string name="AlreadyLogin">已经是用户？登录</string>
+    <string name="Register">登记</string>
+    <string name="SearchDate">检索日期</string>
+    <string name="FinanceManager">财务经理</string>
+    <string name="Title">标题</string>
+
+    <string name="Delete">删除</string>
+    <string name="Update">更新</string>
+
+    <string name="Home">家</string>
+    <string name="Transaction">交易</string>
+    <string name="Summary">概括</string>
+    <string name="Budget">预算</string>
+    <string name="Redeem">赎回</string>
+    <string name="LoginusingFingerPrint">使用指纹登录</string>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengurusan kewangan</string>
+
+    <string name="navigation_drawer_open">Buka laci navigasi</string>
+    <string name="navigation_drawer_close">Tutup laci navigasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo serpihan kosong</string>
+
+    <string name="Setting">Tetapan</string>
+    <string name="Reminder">Peringatan</string>
+    <string name="Search">Cari</string>
+    <string name="Reward">Ganjaran</string>
+    <string name="Language">Bahasa</string>
+    <string name="Calculator">Kalkulator</string>
+    <string name="LogOut">Log Keluar</string>
+
+    <string name="English">Malay</string>
+
+    <string name="Balance">Seimbang</string>
+    <string name="Income">Pendapatan</string>
+    <string name="Expense">Perbelanjaan</string>
+    <string name="IncomeHistory">Sejarah Pendapatan</string>
+    <string name="ExpenseHistory">Sejarah Perbelanjaan</string>
+    <string name="ExpenseStatistics">Perangkaan Perbelanjaan</string>
+
+    <string name="Type">Taip</string>
+    <string name="Note">Catatan</string>
+    <string name="Amount">Jumlah</string>
+
+    <string name="Save">Jimat</string>
+    <string name="Cancel">Batal</string>
+    <string name="IncomeReport">Laporan Pendapatan</string>
+    <string name="ExpenseReport">Laporan perbelanjaan</string>
+    <string name="LogIn">Log masuk</string>
+    <string name="Email">E-mel</string>
+    <string name="Password">Kata laluan</string>
+    <string name="NotyetregisterSignUp">Belum daftar? Daftar</string>
+    <string name="PersonalMoneyManagementSystem">Sistem Pengurusan Wang Peribadi</string>
+    <string name="AddReminderHere">Tambah Peringatan Disini..</string>
+
+    <string name="Enterthetask">Masukkan tugasan</string>
+    <string name="Date">Tarikh</string>
+    <string name="Time">Masa</string>
+    <string name="Submit">Hantar</string>
+    <string name="OrangeJuice">Jus oren</string>
+    <string name="OrangePoints">300 Mata</string>
+    <string name="Burger">Burger</string>
+    <string name="BurgerPoints">400 Mata</string>
+    <string name="EWallet">RM10 EWallet</string>
+    <string name="EWalletPoints">1800 Mata</string>
+
+    <string name="Voucher">10% Baucar</string>
+    <string name="VoucherPoints">3000 Mata</string>
+    <string name="SignUp">Daftar</string>
+    <string name="Fill">Isikan maklumat anda</string>
+    <string name="AlreadyLogin">Sudah menjadi pengguna? Log masuk</string>
+    <string name="Register">Daftar</string>
+    <string name="SearchDate">Tarikh Carian</string>
+    <string name="FinanceManager">Pengurus kewangan</string>
+    <string name="Title">Tajuk</string>
+
+    <string name="Delete">Padam</string>
+    <string name="Update">Kemas kini</string>
+
+    <string name="Home">Rumah</string>
+    <string name="Transaction">Transaksi</string>
+    <string name="Summary">Ringkasan</string>
+    <string name="Budget">Bajet</string>
+    <string name="Redeem">Tebus</string>
+    <string name="LoginusingFingerPrint">Log masuk menggunakan FingerPrint</string>
+</resources>

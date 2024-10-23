@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750525116389",
+    "project_id": "moneymanagementsystem-b69e5",
+    "storage_bucket": "moneymanagementsystem-b69e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750525116389:android:2ac2eecfd66d3a3f91890c",
+        "android_client_info": {
+          "package_name": "my.edu.utar.moneymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750525116389-p2arj6endhboedb6e4abrbgo07lpgece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyY4LVYTzh0BbHedBIcxdzhKCIOeJCiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750525116389-p2arj6endhboedb6e4abrbgo07lpgece.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

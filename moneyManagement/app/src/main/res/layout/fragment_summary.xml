@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:mpandroid="http://schemas.android.com/apk/res-auto"
+    tools:context=".SummaryFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <!-- Pie Chart -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/pieChart"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!-- You can add any additional views or decorations here -->
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/incomeReport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:backgroundTint="@color/piechart_button"
+        android:text="@string/IncomeReport"></Button>
+
+    <Button
+        android:id="@+id/expenseReport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/piechart_button"
+        android:text="@string/ExpenseReport"></Button>
+
+
+
+</LinearLayout>

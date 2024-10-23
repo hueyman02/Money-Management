@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="10dp"
+    android:elevation="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F8EEC3"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/type_income_ds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textStyle="bold|italic"
+            android:text="@string/Income"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/black">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/amount_income_ds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold|italic"
+            android:gravity="center"
+            android:textColor="@color/income_amount_color"
+            android:padding="5dp"
+            android:text="@string/Amount"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"></TextView>
+
+        <TextView
+            android:id="@+id/date_income"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:textStyle="italic|bold"
+            android:padding="5dp"
+            android:text="10 Oct 2023"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@color/black"></TextView>
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
