@@ -1,2 +1,2 @@
 # Money-Management
-Can view through the second branches - moneyManagement
+Can be viewed through the second branch - Money Management
